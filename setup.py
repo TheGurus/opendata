@@ -9,7 +9,7 @@ requirements = [
 
 setuptools.setup(
     name='gurus-opendata',
-    version='0.0.1',
+    version='0.0.2',
     author='The Gurus',
     author_email='opendata@thegurus.tech',
     description='We get Data from the Internet and We make it available to the World',
